@@ -1,16 +1,16 @@
-## Hi there 👋
+Bem vindo ao meu perfil
 
-<!--
-**Gcmmjc/Gcmmjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Guilherme menezes
 
-Here are some ideas to get you started:
+sou aluno da escola EE. PEI JOÂO CLIMACO DE CAMARGO PIRES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+utlizamos como ferramenta nas aulas de robotica os cursos do alura
+
+estou desenvolvendo linguagem JAVASCRIPT em minha sala
+
+utilizo esse espaço para organização e compartilhamento dos meus projetos
+
+
+
+
+![](https://media1.tenor.com/m/oeBy_0qFStoAAAAd/sacanagem-santos.gif)
